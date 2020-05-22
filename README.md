@@ -17,7 +17,7 @@ Framework utilizado para construção de projetos focados em realidade virtual
 
 <img src="https://github.com/JenniferDominique/Interacao-Humano-Computador-AR-VR/blob/master/Imagens/Codepen.png" width="30px;" title="Codepen logo">    [Codepen](https://codepen.io):
 Plataforma utilizada para desenvolvimento de projetos utilizando as linguagens CSS, HTML e JavaScript.
-<br>
+<br><br>
 
 
 **Equipe de Desenvolvimento**
@@ -25,7 +25,7 @@ Plataforma utilizada para desenvolvimento de projetos utilizando as linguagens C
 * [Bruna Larissa Clemente Gomes](https://github.com/littlebru)
 * [Jennifer Dominique Dias Santos](https://github.com/JenniferDominique)
 * [Lucas Rafael de Andrade Barroso](https://github.com/lukaszrafaelb)
-<br>
+
 
 **Professor Orientador**
 --------------------------------------------------------------------------
