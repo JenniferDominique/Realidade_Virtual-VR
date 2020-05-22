@@ -4,8 +4,8 @@
 
 - Implementação no código do projeto
 - Alteração dos botões interativos de passo-a-passo
-- Criação de uma caixa de mensagens explicativas
-- Modelagem da caixa de mensagem
+- Criação de um quadro de mensagens explicativas
+- Modelagem do quadro de mensagens
 - Customização dos textos
 - Animação dos elementos
 - Atualizar informações do README
