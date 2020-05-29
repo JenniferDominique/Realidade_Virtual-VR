@@ -11,7 +11,7 @@ A proposta deste projeto é desenvolver um programa em Realidade Virtual que sej
 <a href="https://codepen.io/py_zza/pen/MWaqQeK?editors=1010"><img src="https://github.com/JenniferDominique/Interacao-Humano-Computador-AR-VR/blob/master/Imagens/botao_codepen.png" width="31%;" title="Visualizar projeto no Codepen"></a>
 </tc>
 <tc>
-<a href="https://glitch.com/edit/?utm_content=project_airplane-build-latecoere&utm_source=view_source&utm_medium=button&utm_campaign=glitchButton#!/airplane-build-latecoere"><img src="https://github.com/JenniferDominique/Interacao-Humano-Computador-AR-VR/blob/master/Imagens/botao_glitch.png" width="32%;" title="Visualizar projeto no Glitch"></a>
+<a href="https://glitch.com/~airplane-build-latecoere"><img src="https://github.com/JenniferDominique/Interacao-Humano-Computador-AR-VR/blob/master/Imagens/botao_glitch.png" width="32%;" title="Visualizar projeto no Glitch"></a>
 </tc>
 </table>
 
