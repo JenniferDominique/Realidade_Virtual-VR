@@ -10,4 +10,4 @@
 - Animação dos elementos
 - Atualizar informações do README
 
-[Link para o projeto](https://codepen.io/py_zza/pen/MWaqQeK?editors=1000)
+[Link para o projeto](https://glitch.com/~airplane-build-latecoere)
