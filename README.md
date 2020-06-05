@@ -13,9 +13,11 @@ O projeto é voltado para o setor de montagem, para o treinamento de funcionári
 <img src="https://github.com/JenniferDominique/Interacao-Humano-Computador-AR-VR/blob/master/Imagens/A-frame.png" width="30px;" title="A-frame logo">    [A-frame](https://aframe.io):
 Framework utilizado para construção de projetos focados em realidade virtual
 
+<img src="https://github.com/JenniferDominique/Interacao-Humano-Computador-AR-VR/blob/master/Imagens/Glitch.png" width="30px;" title="Glitch logo">    [Glitch](https://glitch.com):
+Plataforma utilizada para desenvolvimento do projeto utilizando as linguagens CSS, HTML e JavaScript de forma mais ágil e compartilhada.
 
 <img src="https://github.com/JenniferDominique/Interacao-Humano-Computador-AR-VR/blob/master/Imagens/Codepen.png" width="30px;" title="Codepen logo">    [Codepen](https://codepen.io):
-Plataforma utilizada para desenvolvimento de projetos utilizando as linguagens CSS, HTML e JavaScript.
+Plataforma utilizada para o inicio do desenvolvimento do projeto utilizando as linguagens CSS, HTML e JavaScript.
 <br><br>
 
 ### Desenvolvimento
