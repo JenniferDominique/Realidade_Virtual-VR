@@ -9,10 +9,19 @@ A proposta deste projeto é desenvolver um programa em Realidade Virtual que sej
 ### Público alvo
 O projeto é voltado para o setor de montagem, para o treinamento de funcionários de uma empresa de fabricação de peças aeronáuticas, auxiliando os funcionários a entender o processo de montagem de uma porta de avião.
 
+### Tecnologias Utilizadas
+<img src="https://github.com/JenniferDominique/Interacao-Humano-Computador-AR-VR/blob/master/Imagens/A-frame.png" width="30px;" title="A-frame logo">    [A-frame](https://aframe.io):
+Framework utilizado para construção de projetos focados em realidade virtual
+
+
+<img src="https://github.com/JenniferDominique/Interacao-Humano-Computador-AR-VR/blob/master/Imagens/Codepen.png" width="30px;" title="Codepen logo">    [Codepen](https://codepen.io):
+Plataforma utilizada para desenvolvimento de projetos utilizando as linguagens CSS, HTML e JavaScript.
+<br><br>
+
 ### Desenvolvimento
 * [SPRINT 01](https://github.com/JenniferDominique/Interacao-Humano-Computador-AR-VR/tree/master/Sprint%2001)
 * [SPRINT 02](https://github.com/JenniferDominique/Interacao-Humano-Computador-AR-VR/tree/master/Sprint%2002)
-
+------------------------------------------------------
 ### Acesse nosso projeto
 <table>
 <tc>
@@ -23,15 +32,7 @@ O projeto é voltado para o setor de montagem, para o treinamento de funcionári
 </tc>
 </table>
 
-### Tecnologias Utilizadas
-<img src="https://github.com/JenniferDominique/Interacao-Humano-Computador-AR-VR/blob/master/Imagens/A-frame.png" width="30px;" title="A-frame logo">    [A-frame](https://aframe.io):
-Framework utilizado para construção de projetos focados em realidade virtual
-
-
-<img src="https://github.com/JenniferDominique/Interacao-Humano-Computador-AR-VR/blob/master/Imagens/Codepen.png" width="30px;" title="Codepen logo">    [Codepen](https://codepen.io):
-Plataforma utilizada para desenvolvimento de projetos utilizando as linguagens CSS, HTML e JavaScript.
-<br><br>
-
+------------------------------------------------------
 
 ### Equipe de Desenvolvimento
 
