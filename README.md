@@ -23,6 +23,7 @@ Plataforma utilizada para o inicio do desenvolvimento do projeto utilizando as l
 ### Desenvolvimento
 * [SPRINT 01](https://github.com/JenniferDominique/Interacao-Humano-Computador-AR-VR/tree/master/Sprint%2001)
 * [SPRINT 02](https://github.com/JenniferDominique/Interacao-Humano-Computador-AR-VR/tree/master/Sprint%2002)
+* [SPRINT 03](https://github.com/JenniferDominique/Interacao-Humano-Computador-AR-VR/tree/master/Sprint%2003)
 ------------------------------------------------------
 ### Acesse nosso projeto
 <table>
