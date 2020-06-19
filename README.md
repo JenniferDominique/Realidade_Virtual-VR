@@ -47,6 +47,4 @@ Plataforma utilizada para o inicio do desenvolvimento do projeto utilizando as l
 
 
 ### Professor Orientador
-|||
-|:---:|:---:|
-|[Giuliano Bertoti](https://github.com/giulianobertoti)|<a href="https://github.com/JenniferDominique" title="Reviewed">👀</a> <a href="https://github.com/JenniferDominique" title="Reviewed">:teacher:</a>|
+* [Giuliano Bertoti](https://github.com/giulianobertoti)
