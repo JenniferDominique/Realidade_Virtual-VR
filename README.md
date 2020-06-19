@@ -43,7 +43,6 @@ Plataforma utilizada para o inicio do desenvolvimento do projeto utilizando as l
 |:-----------:|:-----------------:|:------:|
 |[Bruna Larissa Clemente Gomes](https://github.com/littlebru)| 1460481911006 |<a href="https://github.com/littlebru" title="code">💻</a> <a href="https://github.com/littlebru" title="Documentation">:book:</a> <a href="https://github.com/littlebru" title="Ideas, Planning & Feedback">🤔</a><a href="https://github.com/littlebru" title="Reviewed">👀</a>|
 |[Jennifer Dominique Dias Santos](https://github.com/JenniferDominique)| 1460481911034 |<a href="https://github.com/JenniferDominique" title="code">💻</a> <a href="https://github.com/JenniferDominique" title="Maintenance">🚧</a> <a href="https://github.com/JenniferDominique" title="Ideas, Planning & Feedback">🤔</a><a href="https://github.com/JenniferDominique" title="Reviewed">👀</a>|
-|[Lucas Rafael de Andrade Barroso](https://github.com/lukaszrafaelb)|||
 
 
 ### Professor Orientador
