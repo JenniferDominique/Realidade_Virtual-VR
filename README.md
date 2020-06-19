@@ -2,8 +2,6 @@
 
 Esse é um repositório referente ao curso de Interação Humano Computador (IHC), do curso de ensino superior de Análise e Desenvolvimento de Sistemas da Faculdade de Tecnologia de São José dos Campos (FATEC - SJC), 1° Semestre 2020.
 
-## Airplane Door Build (VR)
-
 ### Proposta
 A proposta deste projeto é desenvolver um programa em Realidade Virtual que seja capaz de simular a montagem de um modelo de porta de aeronave, no estilo passo-a-passo.
 
