@@ -16,7 +16,7 @@
 #### Refatoração do Código:
 - Remover funções comentadas sem uso;
 - Correção de erros de importação;
-- Correção de erros de referencia de elementos;
+- Correção de erros na referência de alguns elementos;
 
 #### Acesse nosso projeto
 <table>
