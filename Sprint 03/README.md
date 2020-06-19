@@ -10,6 +10,13 @@
 - Adicionar um botão de voltar (para que usuário possa desfazer alguma ação);
 - Adicionar ação no botão voltar;
 
+#### Alterações no ambiente:
+- Alinhamento da câmera em primeira Pessoa
+
+#### Refatoração do Código:
+- Remover funções comentadas sem uso;
+- Correção de erros de importação;
+- Correção de erros de referencia de elementos;
 
 #### Acesse nosso projeto
 <table>
