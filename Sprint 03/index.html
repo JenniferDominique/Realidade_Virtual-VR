@@ -292,7 +292,7 @@
     <!-- IMAGENS -->
 
     <a-text id="painel-info-1" 
-            value="Clique nos botoes para\n ver o passo-a-passo\n da montagem\n do componente" 
+            value="BEM-VINDO\nClique nos botoes para\n ver o passo-a-passo\n da montagem dos\n componentes" 
             transparent="true"
             align="center"
             color="#F5F5F5"
@@ -307,7 +307,7 @@
             material="color: #2F4F4F"></a-text>
     
     <a-text id="painel-info-2" 
-            value="Clique nos botões azuis \npara a montagem\nda peca" 
+            value="Clique nos botões azuis \npara a montagem\ndos componentes" 
             transparent="true"
             align="center"
             color="#F5F5F5"
@@ -691,7 +691,7 @@
 <!-- _____CURSOR_____ -->
  
  <a-entity id="CameraPosition"
-           position="10 1 3" > 
+           position="0 1 3" > 
    <!--  0 1 3  TABLADO 1-->
    <!-- 10 1 3  TABLADO 2-->
      
@@ -818,10 +818,11 @@
                   shadow="cast: true"> </a-gltf-model>
     
     <a-text id="botaoOk" 
+            class="clickable"
             value="OK\n\n" 
             transparent="true"
             align="center"
-            color="gray"
+            color="whitesmoke"
             font="mozillavr"
             anchor="center"
             wrap-count="10"
@@ -834,7 +835,7 @@
             material="color: #696969"
             shadow="cast: true"></a-text>
     
-    <a-text id="botaoVoltaOK"            
+    <a-text id="botaoOkSOMBRA"            
             visible="true" 
             position = "0.10 0.4 1.24" 
             rotation="-35 0 0" 
@@ -845,10 +846,11 @@
             shadow="cast: true"></a-text>
     
     <a-text id="botaoVolta" 
+            class="clickable"
             value="Voltar\n\n" 
             transparent="true"
             align="center"
-            color="white"
+            color="whitesmoke"
             font="mozillavr"
             anchor="center"
             wrap-count="14"
