@@ -256,11 +256,17 @@ document.querySelector("#setaDireita").addEventListener("click", function () {
 
 //======BOTAO DE MUDAR POSIÇÃO CÂMERA=======
 
-//document.querySelector("#botaoOk").addEventListener("click", function () {
- // var botaoOk = document.querySelector("#CameraPosition");
-  //botaoOk.position.setAttribute('position', {x: 10, y: 1, z: 3}); // alterar posição da camera
-  
-//});
+document.querySelector("#botaoOk").addEventListener("click", function () {
+  var cameraOk = document.querySelector("#CameraPosition");
+  cameraOk.setAttribute('position', {x: 10, y: 1, z: 3}); 
+  // alterar posição da camera
+});
+
+document.querySelector("#botaoVolta").addEventListener("click", function () {
+  var cameraOk = document.querySelector("#CameraPosition");
+  cameraOk.setAttribute('position', {x: 0, y: 1, z: 3}); 
+  // alterar posição da camera
+});
 
 
 //=========================== PONTOS PARA MOVIMENTACAO NO VR ========================================
