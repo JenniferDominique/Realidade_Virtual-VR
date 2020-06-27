@@ -1,4 +1,4 @@
-![banner](https://github.com/JenniferDominique/Interacao-Humano-Computador-AR-VR/blob/master/Imagens/Capa-Airplane.png)
+![banner](https://github.com/JenniferDominique/Realidade_Virtual-VR/blob/master/Imagens/Capa-Airplane.gif)
 
 Esse é um repositório referente ao curso de Interação Humano Computador (IHC), do curso de ensino superior de Análise e Desenvolvimento de Sistemas da Faculdade de Tecnologia de São José dos Campos (FATEC - SJC), 1° Semestre 2020.
 
