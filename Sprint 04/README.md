@@ -22,7 +22,7 @@
 #### Refatoração do Código:
 - Correção de erros de importação;
 - Correção de erros na referência de alguns elementos;
-- Alteração do tipo dos painéis informativos de <a-text> para <a-image> (removendo o lag dos textos);
+- Alteração do tipo dos painéis informativos de ```<a-text>``` para ```<a-image>``` (removendo o lag dos textos);
 - Alteração da referência do repositório onde estão os objetos 3D;
 
 
