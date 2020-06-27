@@ -26,7 +26,7 @@ Plataforma utilizada para o inicio do desenvolvimento do projeto utilizando as l
 * [SPRINT 04](https://github.com/JenniferDominique/Interacao-Humano-Computador-AR-VR/tree/master/Sprint%2004)
 ------------------------------------------------------
 ### Acesse nosso projeto
-<a href="https://glitch.com/~airplane-build-latecoere"><img src="https://github.com/JenniferDominique/Interacao-Humano-Computador-AR-VR/blob/master/Imagens/botao_projeto.gif" width="19.5%;" title="Acessar treinamento"></a>
+<a href="https://airplane-build-latecoere.glitch.me"><img src="https://github.com/JenniferDominique/Interacao-Humano-Computador-AR-VR/blob/master/Imagens/botao_projeto.gif" width="19.5%;" title="Acessar treinamento"></a>
 <a href="https://codepen.io/py_zza/pen/MWaqQeK?editors=1010"><img src="https://github.com/JenniferDominique/Interacao-Humano-Computador-AR-VR/blob/master/Imagens/botao_codepen.png" width="19.5%;" title="Visualizar projeto no Codepen"></a>
 <a href="https://glitch.com/~airplane-build-latecoere"><img src="https://github.com/JenniferDominique/Interacao-Humano-Computador-AR-VR/blob/master/Imagens/botao_glitch.png" width="19.5%;" title="Visualizar projeto no Glitch"></a>
 
